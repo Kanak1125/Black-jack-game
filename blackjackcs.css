@@ -1,0 +1,27 @@
+body {
+ background-image: url("https://www.meme-arsenal.com/memes/9b248eec6a5787f7f60c2641ca53db1d.jpg");
+ font-family :'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ background-size: cover;
+ text-align: center;
+ color: white;
+ font-weight: bold;
+}
+h1 {
+    color : rgb(185, 145, 35);
+}
+#message-el {
+    font-style: italic;
+    font-weight: bolder;
+}
+
+button{
+    color: #487bbe;
+    width: 150px;
+    background : rgb(185, 145, 35);
+    font-weight : bold;
+    padding-top : 5px;
+    padding-bottom : 5px;
+    border : none;
+    border-radius : 3px;
+    margin-top: 5px;;
+}
